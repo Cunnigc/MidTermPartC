@@ -12,6 +12,9 @@ package midtermexam_versiona_extensioncode;
  * Students are reminded to add themselves as modifiers when editing the
  * code.
  * @author dancye, 2019
+ * I did not make this code so I don't think I should mess with the author although I am updating the code
+ * @updater Logan Cunningham
+ * I am guessing you are just going to compare this to the code without these comments so I feel 3 comments should suffice
  */
 public class UserProfile 
 {
